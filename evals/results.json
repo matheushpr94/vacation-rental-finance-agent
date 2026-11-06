@@ -1,0 +1,27 @@
+[
+  {
+    "name": "categorizador",
+    "passed": 67,
+    "total": 67
+  },
+  {
+    "name": "dedup",
+    "passed": 43,
+    "total": 43
+  },
+  {
+    "name": "dedup ponta a ponta (sync)",
+    "passed": 4,
+    "total": 4
+  },
+  {
+    "name": "parser de parcelas (mock)",
+    "passed": 98,
+    "total": 98
+  },
+  {
+    "name": "saldos, anomalias, escrita",
+    "passed": 18,
+    "total": 18
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "_version": "1.0",
+  "_description": "Regras de categorização de débitos. A ordem importa: a primeira regra que casar vence. Os padrões são comparados sem acento e sem diferenciar maiúsculas.",
+  "rules": [
+    {
+      "id": "owner_payout",
+      "pattern": "pag(amento)?\\.?\\s*solicitad|^repasse|repasse\\s+(ao|aos|para)\\s+propriet|transfer[eê]ncia\\s+(ao|aos)\\s+propriet",
+      "category": "owner_payout",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Repasse ao proprietário",
+        "Pagamento solicitado"
+      ],
+      "note": "'Pag. solicitado' é o rótulo genérico da gestora: sozinho é repasse; com sufixo ('Pag. solicitado Energia') o categorizador tenta o sufixo antes, por isso esta regra pode ser ampla e ficar em primeiro."
+    },
+    {
+      "id": "staff",
+      "pattern": "diarista|\\bdiarias?\\b|sal[aá]rio|folha\\s+de\\s+pagamento|\\bfgts\\b|f[eé]rias|rescis[aã]o|recis[aã]o|d[eé]cimo\\s+terceiro|\\b13[oº°]?\\s*sal|camareira|arrumadeira|cozinheir[ao]|auxiliar\\s+de\\s+limpeza|caseiro|piscineiro|jardineiro|funcion[aá]ri[ao]\\s+extra|e-?social|vale[-\\s]transporte",
+      "category": "staff",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Salário caseiro",
+        "FGTS competência",
+        "Diarista extra feriado"
+      ]
+    },
+    {
+      "id": "hospitality",
+      "pattern": "boas[-\\s]vindas|cesta\\s+de\\s+caf[eé]|caf[eé]\\s+da\\s+manh[aã]|kit\\s+h[oó]spede|amenities|lembrancinha|chocolates?|espumante|\\bgelo\\b|mimos?\\b",
+      "category": "hospitality",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Kit boas-vindas",
+        "Cesta de café da manhã",
+        "Amenities banheiro"
+      ]
+    },
+    {
+      "id": "pool",
+      "pattern": "\\bcloro\\b|pastilha\\s+de\\s+cloro|clarificante|algicida|barrilha|sulfato\\s+de\\s+alum[ií]nio|limpeza\\s+(da\\s+)?piscina|produtos?\\s+(para\\s+)?piscina",
+      "category": "pool",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Cloro granulado",
+        "Limpeza da piscina"
+      ]
+    },
+    {
+      "id": "gas",
+      "pattern": "\\bg[aá]s\\b|botij[aã]o|\\bglp\\b",
+      "category": "gas",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Recarga de gás",
+        "Botijão P45"
+      ]
+    },
+    {
+      "id": "laundry",
+      "pattern": "lavanderia|lavagem\\s+de\\s+(enxoval|roupa|toalha)|enxoval\\s+lavado",
+      "category": "laundry",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Lavanderia mensal",
+        "Lavagem de enxoval"
+      ]
+    },
+    {
+      "id": "maintenance",
+      "pattern": "manuten[cç][aã]o|consert|reparo|eletricista|encanador|hidr[aá]ulic|pintura|\\btinta\\b|dedetiza[cç][aã]o|desentup|fossa|impermeabiliz|ar[-\\s]condicionado|higieniza[cç][aã]o|disjuntor|\\bcabo\\b|\\bfio\\b|\\bparafusos?\\b|\\bsilicone\\b|rejunte|argamassa|vidra[cç]aria|marcenaria|m[aã]o\\s+de\\s+obra|visita\\s+t[eé]cnica|bomba\\s+d[e']?\\s*[aá]gua",
+      "category": "maintenance",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Manutenção ar-condicionado",
+        "Conserto bomba d'água",
+        "Dedetização trimestral"
+      ]
+    },
+    {
+      "id": "electricity",
+      "pattern": "energia|conta\\s+de\\s+luz|\\bluz\\b\\s*(\\d|$|-)|el[eé]trica\\s+concession",
+      "category": "electricity",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Conta de energia",
+        "Conta de luz - set"
+      ]
+    },
+    {
+      "id": "water",
+      "pattern": "conta\\s+de\\s+[aá]gua|\\b[aá]gua\\b\\s*(\\d|$|-|\\/)|saneamento|carro[-\\s]pipa",
+      "category": "water",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Conta de água",
+        "Saneamento municipal"
+      ]
+    },
+    {
+      "id": "condominium",
+      "pattern": "condom[ií]nio|\\bcond\\.?$|\\bcond\\.?\\s",
+      "category": "condominium",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Condomínio",
+        "Pag. solicitado Cond."
+      ]
+    },
+    {
+      "id": "internet",
+      "pattern": "internet|wi-?fi|fibra\\s+[oó]ptica|provedor",
+      "category": "internet",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Internet fibra",
+        "Provedor wifi"
+      ]
+    },
+    {
+      "id": "taxes",
+      "pattern": "\\biptu\\b|imposto|\\btaxa\\s+(de\\s+)?(lixo|licen|renova|munic)|\\btlp\\b|\\bdarf\\b",
+      "category": "taxes",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "IPTU parcela 2/10",
+        "Taxa de lixo"
+      ]
+    },
+    {
+      "id": "professional_services",
+      "pattern": "contador|contabilidade|advogad|honor[aá]rios|fot[oó]grafo|ensaio\\s+fotogr|software|assinatura\\s+de\\s+sistema|site\\b|dom[ií]nio\\s+do\\s+site",
+      "category": "professional_services",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Honorários contador",
+        "Ensaio fotográfico do anúncio"
+      ]
+    },
+    {
+      "id": "refund",
+      "pattern": "reembolso\\s+(ao|a|de)\\s+h[oó]spede|estorno|devolu[cç][aã]o\\s+(de\\s+)?cau[cç][aã]o",
+      "category": "refund",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Estorno parcial reserva",
+        "Devolução de caução"
+      ]
+    },
+    {
+      "id": "supplies",
+      "pattern": "material\\s+de\\s+limpeza|limpeza|detergente|sab[aã]o|desinfetante|papel\\s+higi[eê]nico|sacos?\\s+de\\s+lixo|l[aâ]mpada|\\bled\\b|pilhas?|toalhas?|len[cç][oó]is|len[cç]ol|travesseiro|colch[aã]o|utens[ií]lios|panelas?|copos?|ta[cç]as?|refil|purificador|compras\\s+(para\\s+a\\s+)?casa|ferramenta|primeiros\\s+socorros|uniforme",
+      "category": "supplies",
+      "confidence": "high",
+      "approved_count": 0,
+      "examples": [
+        "Material de limpeza",
+        "Jogo de lençóis",
+        "Refil purificador"
+      ]
+    }
+  ]
+}

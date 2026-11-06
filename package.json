@@ -1,0 +1,27 @@
+{
+  "name": "vacation-rental-finance-agent",
+  "version": "0.1.0",
+  "description": "Agente financeiro para imóvel de temporada: sync de uma PMS, categorização, dedup, parser LLM de parcelas com validação, saldos, anomalias e servidor MCP. Dados 100% sintéticos.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Matheus Rosa",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node scripts/generate-synthetic.js",
+    "pms": "node src/pms/fake-pms-server.js",
+    "sync": "node src/sync.js",
+    "cli": "node src/cli.js",
+    "mcp": "node src/mcp/server.js",
+    "evals": "node evals/run-all.js",
+    "evals:selftest": "node evals/run-all.js --selftest",
+    "test": "node test/smoke.js",
+    "verify": "bash scripts/verify.sh"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.6.0",
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  }
+}

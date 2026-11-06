@@ -1,0 +1,30 @@
+name: verify
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # Sem ANTHROPIC_API_KEY de propósito: os evals do parser usam respostas gravadas.
+      - run: bash scripts/verify.sh
+      - name: Placar no resumo do job
+        if: always()
+        run: |
+          echo '### Placar dos evals' >> "$GITHUB_STEP_SUMMARY"
+          echo '| eval | passou |' >> "$GITHUB_STEP_SUMMARY"
+          echo '|---|---|' >> "$GITHUB_STEP_SUMMARY"
+          node -e 'for (const r of require("./evals/results.json")) console.log(`| ${r.name} | ${r.passed}/${r.total} |`)' >> "$GITHUB_STEP_SUMMARY"

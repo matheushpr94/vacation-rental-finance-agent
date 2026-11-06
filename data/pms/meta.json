@@ -1,0 +1,10 @@
+{
+  "property": "Casa Exemplo (imóvel fictício)",
+  "currency": "BRL",
+  "as_of": "2026-11-01",
+  "seed": 20261117,
+  "history_start": "2024-10-10",
+  "commission_rate": 0.15,
+  "generated_by": "scripts/generate-synthetic.js",
+  "note": "Dados 100% sintéticos. Nenhum nome, valor ou id corresponde a pessoa ou imóvel real."
+}

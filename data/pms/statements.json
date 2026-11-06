@@ -1,0 +1,2625 @@
+{
+ "2025-01": {
+  "debits": [
+   {
+    "date": "2025-01-05",
+    "description": "2. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-01-06",
+    "description": "Conta de energia",
+    "value": 1236.53
+   },
+   {
+    "date": "2025-01-07",
+    "description": "2. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-01-08",
+    "description": "Cesta de café da manhã",
+    "value": 206.41
+   },
+   {
+    "date": "2025-01-09",
+    "description": "Lâmpadas LED",
+    "value": 322.89
+   },
+   {
+    "date": "2025-01-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-01-12",
+    "description": "2. Saneamento",
+    "value": 160.34
+   },
+   {
+    "date": "2025-01-12",
+    "description": "Cesta de café da manhã",
+    "value": 226.82
+   },
+   {
+    "date": "2025-01-13",
+    "description": "Pastilha de cloro",
+    "value": 421.37
+   },
+   {
+    "date": "2025-01-15",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-01-15",
+    "description": "Lavanderia mensal",
+    "value": 971.73
+   },
+   {
+    "date": "2025-01-15",
+    "description": "4. Conserto chuveiro",
+    "value": 363.96
+   },
+   {
+    "date": "2025-01-20",
+    "description": "Cesta de café da manhã",
+    "value": 204.06
+   },
+   {
+    "date": "2025-01-22",
+    "description": "4. Gás cozinha",
+    "value": 503.41
+   },
+   {
+    "date": "2025-01-22",
+    "description": "Diarista extra feriado",
+    "value": 579.19
+   },
+   {
+    "date": "2025-01-23",
+    "description": "1. Gás cozinha",
+    "value": 436.55
+   },
+   {
+    "date": "2025-01-31",
+    "description": "5. Amenities hóspedes",
+    "value": 165.54
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-01-08",
+    "description": "Repasse reserva CE007 parc. 2",
+    "value": 2061.67
+   },
+   {
+    "date": "2025-01-14",
+    "description": "Repasse reserva CE012 parc. 1",
+    "value": 818.55
+   },
+   {
+    "date": "2025-01-19",
+    "description": "Repasse reserva CE005 parc. 2",
+    "value": 5748.12
+   },
+   {
+    "date": "2025-01-24",
+    "description": "Repasse reserva CE008 parc. 1",
+    "value": 4700.5
+   },
+   {
+    "date": "2025-01-25",
+    "description": "Repasse reserva CE004 parc. 2",
+    "value": 4989.08
+   }
+  ]
+ },
+ "2025-02": {
+  "debits": [
+   {
+    "date": "2025-02-05",
+    "description": "5. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-02-06",
+    "description": "Recarga de gás",
+    "value": 514.05
+   },
+   {
+    "date": "2025-02-07",
+    "description": "5. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-02-08",
+    "description": "Pag. solicitado Energia",
+    "value": 1217.54
+   },
+   {
+    "date": "2025-02-09",
+    "description": "Kit boas-vindas",
+    "value": 174.21
+   },
+   {
+    "date": "2025-02-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-02-10",
+    "description": "IPTU parcela 1/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-02-12",
+    "description": "Conta de água",
+    "value": 154.14
+   },
+   {
+    "date": "2025-02-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-02-16",
+    "description": "1. Produtos piscina",
+    "value": 429.59
+   },
+   {
+    "date": "2025-02-16",
+    "description": "5. Amenities hóspedes",
+    "value": 216.07
+   },
+   {
+    "date": "2025-02-17",
+    "description": "Manutenção ar-condicionado",
+    "value": 772.35
+   },
+   {
+    "date": "2025-02-17",
+    "description": "3. Refil purificador",
+    "value": 323.31
+   },
+   {
+    "date": "2025-02-23",
+    "description": "Recarga de gás",
+    "value": 492.54
+   },
+   {
+    "date": "2025-02-23",
+    "description": "5. Amenities hóspedes",
+    "value": 165.05
+   },
+   {
+    "date": "2025-02-25",
+    "description": "Lavanderia mensal",
+    "value": 890.63
+   },
+   {
+    "date": "2025-02-28",
+    "description": "0. Diárias camareira",
+    "value": 675.43
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-02-04",
+    "description": "Repasse reserva CE009 parc. 1",
+    "value": 1951.6
+   },
+   {
+    "date": "2025-02-08",
+    "description": "Repasse reserva CE009 parc. 2",
+    "value": 2927.4
+   },
+   {
+    "date": "2025-02-13",
+    "description": "Repasse reserva CE013 parc. 2",
+    "value": 3024.58
+   },
+   {
+    "date": "2025-02-17",
+    "description": "Repasse reserva CE007 parc. 3",
+    "value": 3436.13
+   },
+   {
+    "date": "2025-02-19",
+    "description": "Repasse reserva CE006 parc. 2",
+    "value": 5819.1
+   },
+   {
+    "date": "2025-02-21",
+    "description": "Repasse reserva CE012 parc. 2",
+    "value": 1227.83
+   },
+   {
+    "date": "2025-02-27",
+    "description": "Repasse reserva CE013 parc. 1",
+    "value": 3024.58
+   },
+   {
+    "date": "2025-02-28",
+    "description": "Repasse reserva CE008 parc. 2",
+    "value": 4700.5
+   }
+  ]
+ },
+ "2025-03": {
+  "debits": [
+   {
+    "date": "2025-03-03",
+    "description": "Kit boas-vindas",
+    "value": 149.33
+   },
+   {
+    "date": "2025-03-05",
+    "description": "1. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-03-06",
+    "description": "Pastilha de cloro",
+    "value": 420
+   },
+   {
+    "date": "2025-03-07",
+    "description": "5. Energia",
+    "value": 1366.2
+   },
+   {
+    "date": "2025-03-07",
+    "description": "5. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-03-08",
+    "description": "3. Amenities hóspedes",
+    "value": 147.12
+   },
+   {
+    "date": "2025-03-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-03-10",
+    "description": "IPTU parcela 2/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-03-12",
+    "description": "Conta de água",
+    "value": 258.47
+   },
+   {
+    "date": "2025-03-12",
+    "description": "Kit boas-vindas",
+    "value": 208.81
+   },
+   {
+    "date": "2025-03-13",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-03-15",
+    "description": "Lavanderia mensal",
+    "value": 779.3
+   },
+   {
+    "date": "2025-03-16",
+    "description": "6. Conserto chuveiro",
+    "value": 504.91
+   },
+   {
+    "date": "2025-03-17",
+    "description": "Eletricista - troca disjuntor",
+    "value": 254.84
+   },
+   {
+    "date": "2025-03-19",
+    "description": "5. Refil purificador",
+    "value": 167.08
+   },
+   {
+    "date": "2025-03-23",
+    "description": "Recarga de gás",
+    "value": 514.34
+   },
+   {
+    "date": "2025-03-28",
+    "description": "Pagamento solicitado",
+    "value": 14000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-03-04",
+    "description": "Repasse reserva CE010 parc. 2",
+    "value": 2161.12
+   },
+   {
+    "date": "2025-03-07",
+    "description": "Repasse reserva CE015 parc. 1",
+    "value": 4864.13
+   },
+   {
+    "date": "2025-03-21",
+    "description": "Repasse reserva CE016 parc. 1",
+    "value": 4653.75
+   },
+   {
+    "date": "2025-03-21",
+    "description": "Repasse reserva CE017 parc. 1",
+    "value": 3091.88
+   },
+   {
+    "date": "2025-03-25",
+    "description": "Repasse reserva CE014 parc. 1",
+    "value": 1198.5
+   },
+   {
+    "date": "2025-03-28",
+    "description": "Repasse reserva CE013 parc. 3",
+    "value": 3024.59
+   },
+   {
+    "date": "2025-03-29",
+    "description": "Repasse reserva CE012 parc. 3",
+    "value": 2046.37
+   }
+  ]
+ },
+ "2025-04": {
+  "debits": [
+   {
+    "date": "2025-04-02",
+    "description": "0. Amenities hóspedes",
+    "value": 200.4
+   },
+   {
+    "date": "2025-04-04",
+    "description": "1. Refil purificador",
+    "value": 337.46
+   },
+   {
+    "date": "2025-04-05",
+    "description": "Pag. solicitado Energia",
+    "value": 711.89
+   },
+   {
+    "date": "2025-04-05",
+    "description": "0. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-04-06",
+    "description": "Manutenção ar-condicionado",
+    "value": 855.7
+   },
+   {
+    "date": "2025-04-07",
+    "description": "3. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-04-07",
+    "description": "Kit boas-vindas",
+    "value": 239.03
+   },
+   {
+    "date": "2025-04-10",
+    "description": "Conta de água",
+    "value": 236.49
+   },
+   {
+    "date": "2025-04-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-04-10",
+    "description": "IPTU parcela 3/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-04-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-04-15",
+    "description": "Lavanderia mensal",
+    "value": 555.63
+   },
+   {
+    "date": "2025-04-19",
+    "description": "Cloro e clarificante",
+    "value": 227.54
+   },
+   {
+    "date": "2025-04-26",
+    "description": "3. Gás cozinha",
+    "value": 503.58
+   },
+   {
+    "date": "2025-04-28",
+    "description": "Pagamento solicitado",
+    "value": 16000
+   },
+   {
+    "date": "2025-04-30",
+    "description": "Cesta de café da manhã",
+    "value": 186.32
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-04-04",
+    "description": "Repasse reserva CE014 parc. 2",
+    "value": 1797.75
+   },
+   {
+    "date": "2025-04-08",
+    "description": "Repasse reserva CE020 parc. 1",
+    "value": 2596.75
+   },
+   {
+    "date": "2025-04-14",
+    "description": "Repasse reserva CE019 parc. 1",
+    "value": 6946.63
+   },
+   {
+    "date": "2025-04-26",
+    "description": "Repasse reserva CE018 parc. 1",
+    "value": 7363.13
+   }
+  ]
+ },
+ "2025-05": {
+  "debits": [
+   {
+    "date": "2025-05-05",
+    "description": "4. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-05-05",
+    "description": "5. Conserto chuveiro",
+    "value": 477.25
+   },
+   {
+    "date": "2025-05-07",
+    "description": "3. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-05-08",
+    "description": "Pag. solicitado Energia",
+    "value": 783.25
+   },
+   {
+    "date": "2025-05-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-05-10",
+    "description": "IPTU parcela 4/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-05-11",
+    "description": "Pag. solicitado Água",
+    "value": 147.88
+   },
+   {
+    "date": "2025-05-15",
+    "description": "Cloro e clarificante",
+    "value": 204.85
+   },
+   {
+    "date": "2025-05-16",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-05-16",
+    "description": "Manutenção ar-condicionado",
+    "value": 695.4
+   },
+   {
+    "date": "2025-05-17",
+    "description": "Lavanderia mensal",
+    "value": 372
+   },
+   {
+    "date": "2025-05-21",
+    "description": "Recarga de gás",
+    "value": 478.26
+   },
+   {
+    "date": "2025-05-28",
+    "description": "Pagamento solicitado",
+    "value": 18000
+   },
+   {
+    "date": "2025-05-31",
+    "description": "Cesta de café da manhã",
+    "value": 132.77
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-05-05",
+    "description": "Repasse reserva CE021 parc. 1",
+    "value": 3506.25
+   },
+   {
+    "date": "2025-05-27",
+    "description": "Repasse reserva CE016 parc. 2",
+    "value": 4653.75
+   }
+  ]
+ },
+ "2025-06": {
+  "debits": [
+   {
+    "date": "2025-06-03",
+    "description": "2. Produtos piscina",
+    "value": 223.99
+   },
+   {
+    "date": "2025-06-03",
+    "description": "2. Pintura muro",
+    "value": 870.91
+   },
+   {
+    "date": "2025-06-05",
+    "description": "4. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-06-07",
+    "description": "Pag. solicitado Energia",
+    "value": 672.84
+   },
+   {
+    "date": "2025-06-07",
+    "description": "0. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-06-09",
+    "description": "Conta de água",
+    "value": 171.59
+   },
+   {
+    "date": "2025-06-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-06-10",
+    "description": "IPTU parcela 5/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-06-10",
+    "description": "Kit boas-vindas",
+    "value": 195.17
+   },
+   {
+    "date": "2025-06-12",
+    "description": "Botijão P45",
+    "value": 485.41
+   },
+   {
+    "date": "2025-06-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-06-17",
+    "description": "Cesta de café da manhã",
+    "value": 168.44
+   },
+   {
+    "date": "2025-06-19",
+    "description": "Lavanderia mensal",
+    "value": 807.4
+   },
+   {
+    "date": "2025-06-23",
+    "description": "Dedetização trimestral",
+    "value": 255.75
+   },
+   {
+    "date": "2025-06-28",
+    "description": "Repasse aos proprietários",
+    "value": 20000
+   },
+   {
+    "date": "2025-06-30",
+    "description": "Kit boas-vindas",
+    "value": 191.26
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-06-07",
+    "description": "Repasse reserva CE015 parc. 2",
+    "value": 4864.12
+   },
+   {
+    "date": "2025-06-11",
+    "description": "Repasse reserva CE020 parc. 2",
+    "value": 3895.13
+   },
+   {
+    "date": "2025-06-12",
+    "description": "Repasse reserva CE017 parc. 2",
+    "value": 3091.87
+   },
+   {
+    "date": "2025-06-13",
+    "description": "Repasse reserva CE024 parc. 1",
+    "value": 4169.25
+   },
+   {
+    "date": "2025-06-22",
+    "description": "Repasse reserva CE026 parc. 1",
+    "value": 1186.6
+   },
+   {
+    "date": "2025-06-29",
+    "description": "Repasse reserva CE018 parc. 2",
+    "value": 7363.12
+   },
+   {
+    "date": "2025-06-30",
+    "description": "Repasse reserva CE022 parc. 1",
+    "value": 1765.88
+   }
+  ]
+ },
+ "2025-07": {
+  "debits": [
+   {
+    "date": "2025-07-01",
+    "description": "6. Férias caseiro",
+    "value": 2866.67
+   },
+   {
+    "date": "2025-07-04",
+    "description": "Botijão P45",
+    "value": 445.28
+   },
+   {
+    "date": "2025-07-05",
+    "description": "4. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-07-06",
+    "description": "Pag. solicitado Energia",
+    "value": 682.97
+   },
+   {
+    "date": "2025-07-07",
+    "description": "4. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-07-08",
+    "description": "Pag. solicitado Água",
+    "value": 251.82
+   },
+   {
+    "date": "2025-07-09",
+    "description": "Cesta de café da manhã",
+    "value": 126.64
+   },
+   {
+    "date": "2025-07-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-07-10",
+    "description": "0. Produtos piscina",
+    "value": 206.06
+   },
+   {
+    "date": "2025-07-10",
+    "description": "IPTU parcela 6/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-07-11",
+    "description": "Manutenção ar-condicionado",
+    "value": 581.21
+   },
+   {
+    "date": "2025-07-15",
+    "description": "Recarga de gás",
+    "value": 449.42
+   },
+   {
+    "date": "2025-07-16",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-07-19",
+    "description": "Kit boas-vindas",
+    "value": 135.47
+   },
+   {
+    "date": "2025-07-20",
+    "description": "Lavanderia mensal",
+    "value": 759.85
+   },
+   {
+    "date": "2025-07-20",
+    "description": "Diarista extra feriado",
+    "value": 613.77
+   },
+   {
+    "date": "2025-07-28",
+    "description": "Pagamento solicitado",
+    "value": 14000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-07-15",
+    "description": "Repasse reserva CE019 parc. 2",
+    "value": 6946.62
+   },
+   {
+    "date": "2025-07-18",
+    "description": "Repasse reserva CE020 parc. 3",
+    "value": 6491.87
+   },
+   {
+    "date": "2025-07-18",
+    "description": "Repasse reserva CE028 parc. 1",
+    "value": 1313.25
+   },
+   {
+    "date": "2025-07-22",
+    "description": "Repasse reserva CE021 parc. 2",
+    "value": 3506.25
+   },
+   {
+    "date": "2025-07-26",
+    "description": "Repasse reserva CE023 parc. 1",
+    "value": 5042.63
+   }
+  ]
+ },
+ "2025-08": {
+  "debits": [
+   {
+    "date": "2025-08-02",
+    "description": "Kit boas-vindas",
+    "value": 198.54
+   },
+   {
+    "date": "2025-08-03",
+    "description": "Dedetização trimestral",
+    "value": 898.64
+   },
+   {
+    "date": "2025-08-05",
+    "description": "6. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-08-06",
+    "description": "2. Energia",
+    "value": 707.11
+   },
+   {
+    "date": "2025-08-07",
+    "description": "2. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-08-10",
+    "description": "2. Saneamento",
+    "value": 182.37
+   },
+   {
+    "date": "2025-08-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-08-10",
+    "description": "5. Produtos piscina",
+    "value": 165.38
+   },
+   {
+    "date": "2025-08-10",
+    "description": "IPTU parcela 7/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-08-10",
+    "description": "0. Pintura muro",
+    "value": 362.86
+   },
+   {
+    "date": "2025-08-12",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-08-12",
+    "description": "Kit boas-vindas",
+    "value": 229.54
+   },
+   {
+    "date": "2025-08-20",
+    "description": "Botijão P45",
+    "value": 485.01
+   },
+   {
+    "date": "2025-08-23",
+    "description": "Lavanderia mensal",
+    "value": 539.71
+   },
+   {
+    "date": "2025-08-26",
+    "description": "Jogo de lençóis",
+    "value": 231.02
+   },
+   {
+    "date": "2025-08-28",
+    "description": "Repasse aos proprietários",
+    "value": 14000
+   },
+   {
+    "date": "2025-08-31",
+    "description": "Kit boas-vindas",
+    "value": 168.87
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-08-10",
+    "description": "Repasse reserva CE022 parc. 2",
+    "value": 1765.87
+   },
+   {
+    "date": "2025-08-12",
+    "description": "Repasse reserva CE025 parc. 1",
+    "value": 951.15
+   },
+   {
+    "date": "2025-08-23",
+    "description": "Repasse reserva CE025 parc. 2",
+    "value": 1426.73
+   },
+   {
+    "date": "2025-08-25",
+    "description": "Repasse reserva CE026 parc. 2",
+    "value": 1779.9
+   },
+   {
+    "date": "2025-08-27",
+    "description": "Repasse reserva CE027 parc. 1",
+    "value": 3219.38
+   },
+   {
+    "date": "2025-08-29",
+    "description": "Repasse reserva CE023 parc. 2",
+    "value": 5042.62
+   }
+  ]
+ },
+ "2025-09": {
+  "debits": [
+   {
+    "date": "2025-09-05",
+    "description": "5. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-09-06",
+    "description": "Pag. solicitado Energia",
+    "value": 550.41
+   },
+   {
+    "date": "2025-09-07",
+    "description": "0. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-09-09",
+    "description": "6. Saneamento",
+    "value": 212.29
+   },
+   {
+    "date": "2025-09-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-09-10",
+    "description": "IPTU parcela 8/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-09-11",
+    "description": "Kit boas-vindas",
+    "value": 121.69
+   },
+   {
+    "date": "2025-09-11",
+    "description": "Diversos",
+    "value": 75.55
+   },
+   {
+    "date": "2025-09-13",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-09-14",
+    "description": "1. Gás cozinha",
+    "value": 460.74
+   },
+   {
+    "date": "2025-09-17",
+    "description": "Cloro e clarificante",
+    "value": 257.45
+   },
+   {
+    "date": "2025-09-18",
+    "description": "Lavanderia mensal",
+    "value": 624.49
+   },
+   {
+    "date": "2025-09-18",
+    "description": "5. Conserto chuveiro",
+    "value": 823.26
+   },
+   {
+    "date": "2025-09-28",
+    "description": "Repasse aos proprietários",
+    "value": 14000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-09-15",
+    "description": "Repasse reserva CE028 parc. 2",
+    "value": 1313.25
+   },
+   {
+    "date": "2025-09-18",
+    "description": "Repasse reserva CE030 parc. 1",
+    "value": 5131.88
+   },
+   {
+    "date": "2025-09-19",
+    "description": "Repasse reserva CE032 parc. 1",
+    "value": 10251
+   },
+   {
+    "date": "2025-09-26",
+    "description": "Repasse reserva CE034 parc. 1",
+    "value": 2307.75
+   },
+   {
+    "date": "2025-09-30",
+    "description": "Repasse reserva CE035 parc. 1",
+    "value": 5210.5
+   }
+  ]
+ },
+ "2025-10": {
+  "debits": [
+   {
+    "date": "2025-10-01",
+    "description": "0. Amenities hóspedes",
+    "value": 230.31
+   },
+   {
+    "date": "2025-10-03",
+    "description": "Eletricista - troca disjuntor",
+    "value": 696.03
+   },
+   {
+    "date": "2025-10-05",
+    "description": "0. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-10-06",
+    "description": "Cesta de café da manhã",
+    "value": 178.66
+   },
+   {
+    "date": "2025-10-07",
+    "description": "4. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-10-08",
+    "description": "Pag. solicitado Energia",
+    "value": 780.25
+   },
+   {
+    "date": "2025-10-08",
+    "description": "5. Saneamento",
+    "value": 184.58
+   },
+   {
+    "date": "2025-10-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-10-10",
+    "description": "IPTU parcela 9/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-10-13",
+    "description": "5. Gás cozinha",
+    "value": 513.86
+   },
+   {
+    "date": "2025-10-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-10-15",
+    "description": "6. Produtos piscina",
+    "value": 246.13
+   },
+   {
+    "date": "2025-10-21",
+    "description": "Lavanderia mensal",
+    "value": 505.06
+   },
+   {
+    "date": "2025-10-28",
+    "description": "Repasse aos proprietários",
+    "value": 18000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-10-01",
+    "description": "Repasse reserva CE025 parc. 3",
+    "value": 2377.87
+   },
+   {
+    "date": "2025-10-05",
+    "description": "Repasse reserva CE026 parc. 3",
+    "value": 2966.5
+   },
+   {
+    "date": "2025-10-10",
+    "description": "Repasse reserva CE029 parc. 1",
+    "value": 2578.05
+   },
+   {
+    "date": "2025-10-29",
+    "description": "Repasse reserva CE028 parc. 3",
+    "value": 1313.25
+   }
+  ]
+ },
+ "2025-11": {
+  "debits": [
+   {
+    "date": "2025-11-01",
+    "description": "Cesta de café da manhã",
+    "value": 166.86
+   },
+   {
+    "date": "2025-11-05",
+    "description": "4. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-11-07",
+    "description": "0. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-11-07",
+    "description": "Kit boas-vindas",
+    "value": 134.97
+   },
+   {
+    "date": "2025-11-08",
+    "description": "2. Energia",
+    "value": 561.5
+   },
+   {
+    "date": "2025-11-08",
+    "description": "Pag. solicitado Água",
+    "value": 183.3
+   },
+   {
+    "date": "2025-11-09",
+    "description": "Manutenção ar-condicionado",
+    "value": 823.65
+   },
+   {
+    "date": "2025-11-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-11-10",
+    "description": "IPTU parcela 10/10",
+    "value": 236.4
+   },
+   {
+    "date": "2025-11-11",
+    "description": "3. Gás cozinha",
+    "value": 494.86
+   },
+   {
+    "date": "2025-11-13",
+    "description": "3. Produtos piscina",
+    "value": 169.84
+   },
+   {
+    "date": "2025-11-13",
+    "description": "Diversos",
+    "value": 81.95
+   },
+   {
+    "date": "2025-11-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-11-14",
+    "description": "Kit boas-vindas",
+    "value": 146.87
+   },
+   {
+    "date": "2025-11-22",
+    "description": "Lavanderia mensal",
+    "value": 830.63
+   },
+   {
+    "date": "2025-11-23",
+    "description": "Eletricista - troca disjuntor",
+    "value": 639.41
+   },
+   {
+    "date": "2025-11-28",
+    "description": "Pagamento solicitado",
+    "value": 14000
+   },
+   {
+    "date": "2025-11-30",
+    "description": "3. Amenities hóspedes",
+    "value": 214.79
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-11-05",
+    "description": "Repasse reserva CE038 parc. 1",
+    "value": 5408.13
+   },
+   {
+    "date": "2025-11-07",
+    "description": "Repasse reserva CE033 parc. 1",
+    "value": 3828.4
+   },
+   {
+    "date": "2025-11-11",
+    "description": "Repasse reserva CE027 parc. 2",
+    "value": 3219.37
+   },
+   {
+    "date": "2025-11-11",
+    "description": "Repasse reserva CE039 parc. 1",
+    "value": 3907.88
+   },
+   {
+    "date": "2025-11-12",
+    "description": "Repasse reserva CE031 parc. 1",
+    "value": 5538.6
+   },
+   {
+    "date": "2025-11-13",
+    "description": "Repasse reserva CE031 parc. 2",
+    "value": 8307.9
+   },
+   {
+    "date": "2025-11-13",
+    "description": "Repasse reserva CE040 parc. 1",
+    "value": 5663.13
+   },
+   {
+    "date": "2025-11-15",
+    "description": "Repasse reserva CE037 parc. 1",
+    "value": 2993.7
+   },
+   {
+    "date": "2025-11-16",
+    "description": "Repasse reserva CE030 parc. 2",
+    "value": 5131.87
+   },
+   {
+    "date": "2025-11-18",
+    "description": "Repasse reserva CE029 parc. 2",
+    "value": 6015.45
+   },
+   {
+    "date": "2025-11-22",
+    "description": "Repasse reserva CE034 parc. 2",
+    "value": 3461.63
+   },
+   {
+    "date": "2025-11-27",
+    "description": "Repasse reserva CE044 parc. 1",
+    "value": 5191.38
+   }
+  ]
+ },
+ "2025-12": {
+  "debits": [
+   {
+    "date": "2025-12-05",
+    "description": "5. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-12-06",
+    "description": "6. Energia",
+    "value": 1315.37
+   },
+   {
+    "date": "2025-12-07",
+    "description": "6. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2025-12-07",
+    "description": "Cesta de café da manhã",
+    "value": 236.77
+   },
+   {
+    "date": "2025-12-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2025-12-12",
+    "description": "Pag. solicitado Água",
+    "value": 254.33
+   },
+   {
+    "date": "2025-12-12",
+    "description": "Manutenção ar-condicionado",
+    "value": 645.36
+   },
+   {
+    "date": "2025-12-14",
+    "description": "Cloro e clarificante",
+    "value": 446.87
+   },
+   {
+    "date": "2025-12-16",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2025-12-17",
+    "description": "Cesta de café da manhã",
+    "value": 179.08
+   },
+   {
+    "date": "2025-12-18",
+    "description": "1. Gás cozinha",
+    "value": 443.61
+   },
+   {
+    "date": "2025-12-18",
+    "description": "3. Décimo terceiro caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2025-12-21",
+    "description": "Eletricista - troca disjuntor",
+    "value": 818.2
+   },
+   {
+    "date": "2025-12-24",
+    "description": "Lavanderia mensal",
+    "value": 1077.29
+   },
+   {
+    "date": "2025-12-24",
+    "description": "Botijão P45",
+    "value": 477.68
+   },
+   {
+    "date": "2025-12-24",
+    "description": "Cesta de café da manhã",
+    "value": 182.85
+   },
+   {
+    "date": "2025-12-27",
+    "description": "Diarista extra feriado",
+    "value": 695.23
+   },
+   {
+    "date": "2025-12-28",
+    "description": "Repasse aos proprietários",
+    "value": 18000
+   },
+   {
+    "date": "2025-12-31",
+    "description": "Kit boas-vindas",
+    "value": 158.14
+   }
+  ],
+  "credits": [
+   {
+    "date": "2025-12-02",
+    "description": "Repasse reserva CE033 parc. 2",
+    "value": 5742.6
+   },
+   {
+    "date": "2025-12-07",
+    "description": "Repasse reserva CE036 parc. 1",
+    "value": 6974.25
+   },
+   {
+    "date": "2025-12-20",
+    "description": "Repasse reserva CE043 parc. 1",
+    "value": 5967
+   },
+   {
+    "date": "2025-12-21",
+    "description": "Repasse reserva CE041 parc. 1",
+    "value": 2719.15
+   },
+   {
+    "date": "2025-12-25",
+    "description": "Repasse reserva CE042 parc. 1",
+    "value": 2071.88
+   },
+   {
+    "date": "2025-12-31",
+    "description": "Repasse reserva CE034 parc. 3",
+    "value": 5769.37
+   }
+  ]
+ },
+ "2026-01": {
+  "debits": [
+   {
+    "date": "2026-01-05",
+    "description": "6. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-01-07",
+    "description": "2. Energia",
+    "value": 1428.95
+   },
+   {
+    "date": "2026-01-07",
+    "description": "2. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-01-08",
+    "description": "Cesta de café da manhã",
+    "value": 188.79
+   },
+   {
+    "date": "2026-01-09",
+    "description": "Pag. solicitado Água",
+    "value": 215.4
+   },
+   {
+    "date": "2026-01-09",
+    "description": "2. Gás cozinha",
+    "value": 450.68
+   },
+   {
+    "date": "2026-01-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-01-10",
+    "description": "Eletricista - troca disjuntor",
+    "value": 652.85
+   },
+   {
+    "date": "2026-01-12",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-01-13",
+    "description": "5. Amenities hóspedes",
+    "value": 198.96
+   },
+   {
+    "date": "2026-01-17",
+    "description": "0. Produtos piscina",
+    "value": 513.71
+   },
+   {
+    "date": "2026-01-20",
+    "description": "Recarga de gás",
+    "value": 482.82
+   },
+   {
+    "date": "2026-01-21",
+    "description": "Lavanderia mensal",
+    "value": 831.52
+   },
+   {
+    "date": "2026-01-23",
+    "description": "Cesta de café da manhã",
+    "value": 210.34
+   },
+   {
+    "date": "2026-01-25",
+    "description": "2. Diárias camareira",
+    "value": 642.44
+   },
+   {
+    "date": "2026-01-28",
+    "description": "Repasse aos proprietários",
+    "value": 20000
+   },
+   {
+    "date": "2026-01-31",
+    "description": "2. Amenities hóspedes",
+    "value": 150.92
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-01-08",
+    "description": "Repasse reserva CE035 parc. 2",
+    "value": 5210.5
+   },
+   {
+    "date": "2026-01-13",
+    "description": "Repasse reserva CE041 parc. 2",
+    "value": 4078.73
+   },
+   {
+    "date": "2026-01-21",
+    "description": "Repasse reserva CE036 parc. 2",
+    "value": 6974.25
+   },
+   {
+    "date": "2026-01-27",
+    "description": "Repasse reserva CE037 parc. 2",
+    "value": 6985.3
+   },
+   {
+    "date": "2026-01-28",
+    "description": "Repasse reserva CE038 parc. 2",
+    "value": 5408.12
+   },
+   {
+    "date": "2026-01-28",
+    "description": "Repasse reserva CE040 parc. 2",
+    "value": 5663.12
+   },
+   {
+    "date": "2026-01-31",
+    "description": "Repasse reserva CE046 parc. 1",
+    "value": 4879
+   }
+  ]
+ },
+ "2026-02": {
+  "debits": [
+   {
+    "date": "2026-02-02",
+    "description": "Botijão P45",
+    "value": 462.35
+   },
+   {
+    "date": "2026-02-05",
+    "description": "4. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-02-07",
+    "description": "Conta de energia",
+    "value": 1143.09
+   },
+   {
+    "date": "2026-02-07",
+    "description": "1. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-02-07",
+    "description": "Kit boas-vindas",
+    "value": 233.17
+   },
+   {
+    "date": "2026-02-09",
+    "description": "Conta de água",
+    "value": 141.64
+   },
+   {
+    "date": "2026-02-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-02-10",
+    "description": "Cloro e clarificante",
+    "value": 485.72
+   },
+   {
+    "date": "2026-02-10",
+    "description": "IPTU parcela 1/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-02-11",
+    "description": "Cesta de café da manhã",
+    "value": 153.35
+   },
+   {
+    "date": "2026-02-11",
+    "description": "Reparo hidráulico banheiro",
+    "value": 531.36
+   },
+   {
+    "date": "2026-02-13",
+    "description": "Botijão P45",
+    "value": 513.96
+   },
+   {
+    "date": "2026-02-15",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-02-17",
+    "description": "Lavanderia mensal",
+    "value": 893.25
+   },
+   {
+    "date": "2026-02-20",
+    "description": "2. Amenities hóspedes",
+    "value": 172.01
+   },
+   {
+    "date": "2026-02-23",
+    "description": "0. Diárias camareira",
+    "value": 684.53
+   },
+   {
+    "date": "2026-02-25",
+    "description": "Reparo hidráulico banheiro",
+    "value": 811.65
+   },
+   {
+    "date": "2026-02-28",
+    "description": "Pagamento solicitado",
+    "value": 16000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-02-05",
+    "description": "Repasse reserva CE039 parc. 2",
+    "value": 3907.87
+   },
+   {
+    "date": "2026-02-20",
+    "description": "Repasse reserva CE048 parc. 1",
+    "value": 1725.5
+   },
+   {
+    "date": "2026-02-23",
+    "description": "Repasse reserva CE041 parc. 3",
+    "value": 6797.87
+   }
+  ]
+ },
+ "2026-03": {
+  "debits": [
+   {
+    "date": "2026-03-03",
+    "description": "3. Amenities hóspedes",
+    "value": 221.48
+   },
+   {
+    "date": "2026-03-05",
+    "description": "Conta de energia",
+    "value": 1280.58
+   },
+   {
+    "date": "2026-03-05",
+    "description": "2. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-03-05",
+    "description": "1. Gás cozinha",
+    "value": 463.37
+   },
+   {
+    "date": "2026-03-07",
+    "description": "2. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-03-08",
+    "description": "Eletricista - troca disjuntor",
+    "value": 754.07
+   },
+   {
+    "date": "2026-03-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-03-10",
+    "description": "IPTU parcela 2/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-03-10",
+    "description": "Cesta de café da manhã",
+    "value": 216.75
+   },
+   {
+    "date": "2026-03-11",
+    "description": "4. Saneamento",
+    "value": 148.65
+   },
+   {
+    "date": "2026-03-13",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-03-16",
+    "description": "Cesta de café da manhã",
+    "value": 182.29
+   },
+   {
+    "date": "2026-03-17",
+    "description": "4. Produtos piscina",
+    "value": 458.33
+   },
+   {
+    "date": "2026-03-19",
+    "description": "Lavanderia mensal",
+    "value": 686.53
+   },
+   {
+    "date": "2026-03-28",
+    "description": "Pagamento solicitado",
+    "value": 14000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-03-06",
+    "description": "Repasse reserva CE045 parc. 1",
+    "value": 2263.13
+   },
+   {
+    "date": "2026-03-11",
+    "description": "Repasse reserva CE042 parc. 2",
+    "value": 4834.37
+   },
+   {
+    "date": "2026-03-11",
+    "description": "Repasse reserva CE047 parc. 1",
+    "value": 2252.5
+   },
+   {
+    "date": "2026-03-22",
+    "description": "Repasse reserva CE044 parc. 2",
+    "value": 5191.37
+   },
+   {
+    "date": "2026-03-30",
+    "description": "Repasse reserva CE051 parc. 1",
+    "value": 3105.9
+   }
+  ]
+ },
+ "2026-04": {
+  "debits": [
+   {
+    "date": "2026-04-03",
+    "description": "Kit boas-vindas",
+    "value": 198.85
+   },
+   {
+    "date": "2026-04-05",
+    "description": "5. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-04-06",
+    "description": "0. Energia",
+    "value": 677.57
+   },
+   {
+    "date": "2026-04-07",
+    "description": "5. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-04-09",
+    "description": "Cesta de café da manhã",
+    "value": 210.69
+   },
+   {
+    "date": "2026-04-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-04-10",
+    "description": "IPTU parcela 3/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-04-11",
+    "description": "5. Saneamento",
+    "value": 193.26
+   },
+   {
+    "date": "2026-04-11",
+    "description": "Toalhas de banho",
+    "value": 399.53
+   },
+   {
+    "date": "2026-04-13",
+    "description": "Cloro e clarificante",
+    "value": 206.68
+   },
+   {
+    "date": "2026-04-13",
+    "description": "Manutenção ar-condicionado",
+    "value": 536.93
+   },
+   {
+    "date": "2026-04-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-04-14",
+    "description": "Recarga de gás",
+    "value": 450.05
+   },
+   {
+    "date": "2026-04-19",
+    "description": "Lavanderia mensal",
+    "value": 521.36
+   },
+   {
+    "date": "2026-04-28",
+    "description": "Repasse aos proprietários",
+    "value": 16000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-04-07",
+    "description": "Repasse reserva CE045 parc. 2",
+    "value": 5280.62
+   },
+   {
+    "date": "2026-04-15",
+    "description": "Repasse reserva CE048 parc. 2",
+    "value": 2588.25
+   },
+   {
+    "date": "2026-04-21",
+    "description": "Repasse reserva CE050 parc. 2",
+    "value": 2965.08
+   },
+   {
+    "date": "2026-04-27",
+    "description": "Repasse reserva CE056 parc. 1",
+    "value": 3859
+   }
+  ]
+ },
+ "2026-05": {
+  "debits": [
+   {
+    "date": "2026-05-02",
+    "description": "Kit boas-vindas",
+    "value": 126.14
+   },
+   {
+    "date": "2026-05-05",
+    "description": "0. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-05-06",
+    "description": "Conta de energia",
+    "value": 755.52
+   },
+   {
+    "date": "2026-05-06",
+    "description": "4. Gás cozinha",
+    "value": 444.29
+   },
+   {
+    "date": "2026-05-07",
+    "description": "5. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-05-07",
+    "description": "6. Produtos piscina",
+    "value": 222.24
+   },
+   {
+    "date": "2026-05-08",
+    "description": "3. Saneamento",
+    "value": 155.05
+   },
+   {
+    "date": "2026-05-08",
+    "description": "Cesta de café da manhã",
+    "value": 200
+   },
+   {
+    "date": "2026-05-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-05-10",
+    "description": "IPTU parcela 4/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-05-12",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-05-15",
+    "description": "Lavanderia mensal",
+    "value": 516.71
+   },
+   {
+    "date": "2026-05-17",
+    "description": "Reparo hidráulico banheiro",
+    "value": 407.04
+   },
+   {
+    "date": "2026-05-28",
+    "description": "Pagamento solicitado",
+    "value": 20000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-05-01",
+    "description": "Repasse reserva CE052 parc. 1",
+    "value": 9445.63
+   },
+   {
+    "date": "2026-05-11",
+    "description": "Repasse reserva CE047 parc. 2",
+    "value": 2252.5
+   },
+   {
+    "date": "2026-05-12",
+    "description": "Repasse reserva CE050 parc. 1",
+    "value": 2965.08
+   },
+   {
+    "date": "2026-05-25",
+    "description": "Repasse reserva CE051 parc. 2",
+    "value": 4658.85
+   },
+   {
+    "date": "2026-05-31",
+    "description": "Repasse reserva CE053 parc. 1",
+    "value": 3678.38
+   }
+  ]
+ },
+ "2026-06": {
+  "debits": [
+   {
+    "date": "2026-06-02",
+    "description": "6. Pintura muro",
+    "value": 427.52
+   },
+   {
+    "date": "2026-06-05",
+    "description": "Pag. solicitado Energia",
+    "value": 681.61
+   },
+   {
+    "date": "2026-06-05",
+    "description": "0. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-06-07",
+    "description": "1. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-06-09",
+    "description": "2. Saneamento",
+    "value": 226.94
+   },
+   {
+    "date": "2026-06-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-06-10",
+    "description": "IPTU parcela 5/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-06-11",
+    "description": "4. Amenities hóspedes",
+    "value": 175.65
+   },
+   {
+    "date": "2026-06-13",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-06-16",
+    "description": "Manutenção ar-condicionado",
+    "value": 278.21
+   },
+   {
+    "date": "2026-06-17",
+    "description": "Pastilha de cloro",
+    "value": 168.04
+   },
+   {
+    "date": "2026-06-20",
+    "description": "2. Gás cozinha",
+    "value": 459.02
+   },
+   {
+    "date": "2026-06-20",
+    "description": "Material de limpeza",
+    "value": 114.05
+   },
+   {
+    "date": "2026-06-21",
+    "description": "Lavanderia mensal",
+    "value": 389.73
+   },
+   {
+    "date": "2026-06-28",
+    "description": "Pagamento solicitado",
+    "value": 16000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-06-03",
+    "description": "Repasse reserva CE057 parc. 1",
+    "value": 4655.88
+   },
+   {
+    "date": "2026-06-04",
+    "description": "Repasse reserva CE050 parc. 3",
+    "value": 2965.09
+   },
+   {
+    "date": "2026-06-06",
+    "description": "Repasse reserva CE055 parc. 2",
+    "value": 871.25
+   },
+   {
+    "date": "2026-06-11",
+    "description": "Repasse reserva CE054 parc. 1",
+    "value": 12928.5
+   },
+   {
+    "date": "2026-06-19",
+    "description": "Repasse reserva CE055 parc. 1",
+    "value": 871.25
+   },
+   {
+    "date": "2026-06-28",
+    "description": "Repasse reserva CE051 parc. 3",
+    "value": 7764.75
+   },
+   {
+    "date": "2026-06-29",
+    "description": "Repasse reserva CE058 parc. 1",
+    "value": 1953.3
+   }
+  ]
+ },
+ "2026-07": {
+  "debits": [
+   {
+    "date": "2026-07-01",
+    "description": "3. Férias caseiro",
+    "value": 2866.67
+   },
+   {
+    "date": "2026-07-01",
+    "description": "4. Amenities hóspedes",
+    "value": 178.94
+   },
+   {
+    "date": "2026-07-05",
+    "description": "1. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-07-05",
+    "description": "0. Pintura muro",
+    "value": 821.75
+   },
+   {
+    "date": "2026-07-07",
+    "description": "Conta de energia",
+    "value": 785.54
+   },
+   {
+    "date": "2026-07-07",
+    "description": "0. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-07-08",
+    "description": "4. Saneamento",
+    "value": 181.17
+   },
+   {
+    "date": "2026-07-08",
+    "description": "1. Amenities hóspedes",
+    "value": 176.25
+   },
+   {
+    "date": "2026-07-09",
+    "description": "1. Produtos piscina",
+    "value": 163.2
+   },
+   {
+    "date": "2026-07-09",
+    "description": "Manutenção ar-condicionado",
+    "value": 209.65
+   },
+   {
+    "date": "2026-07-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-07-10",
+    "description": "IPTU parcela 6/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-07-16",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-07-16",
+    "description": "Cesta de café da manhã",
+    "value": 154.42
+   },
+   {
+    "date": "2026-07-22",
+    "description": "Lavanderia mensal",
+    "value": 884.82
+   },
+   {
+    "date": "2026-07-23",
+    "description": "Botijão P45",
+    "value": 498.15
+   },
+   {
+    "date": "2026-07-23",
+    "description": "2. Amenities hóspedes",
+    "value": 122.28
+   },
+   {
+    "date": "2026-07-24",
+    "description": "0. Gás cozinha",
+    "value": 468.56
+   },
+   {
+    "date": "2026-07-25",
+    "description": "Diarista extra feriado",
+    "value": 624.68
+   },
+   {
+    "date": "2026-07-28",
+    "description": "Repasse aos proprietários",
+    "value": 20000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-07-03",
+    "description": "Repasse reserva CE052 parc. 2",
+    "value": 9445.62
+   },
+   {
+    "date": "2026-07-03",
+    "description": "Repasse reserva CE053 parc. 2",
+    "value": 3678.37
+   },
+   {
+    "date": "2026-07-23",
+    "description": "Repasse reserva CE055 parc. 3",
+    "value": 871.25
+   },
+   {
+    "date": "2026-07-30",
+    "description": "Repasse reserva CE061 parc. 1",
+    "value": 3963.13
+   }
+  ]
+ },
+ "2026-08": {
+  "debits": [
+   {
+    "date": "2026-08-01",
+    "description": "Cesta de café da manhã",
+    "value": 168.52
+   },
+   {
+    "date": "2026-08-04",
+    "description": "0. Gás cozinha",
+    "value": 439.1
+   },
+   {
+    "date": "2026-08-05",
+    "description": "6. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-08-07",
+    "description": "1. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-08-07",
+    "description": "Cesta de café da manhã",
+    "value": 234.54
+   },
+   {
+    "date": "2026-08-08",
+    "description": "3. Energia",
+    "value": 639.38
+   },
+   {
+    "date": "2026-08-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-08-10",
+    "description": "IPTU parcela 7/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-08-12",
+    "description": "Pag. solicitado Água",
+    "value": 240.76
+   },
+   {
+    "date": "2026-08-13",
+    "description": "Cloro e clarificante",
+    "value": 189.75
+   },
+   {
+    "date": "2026-08-14",
+    "description": "3. Troca da bomba da piscina - mão de obra",
+    "value": 4870
+   },
+   {
+    "date": "2026-08-15",
+    "description": "0. Conserto chuveiro",
+    "value": 275.94
+   },
+   {
+    "date": "2026-08-16",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-08-16",
+    "description": "Material de limpeza",
+    "value": 138.86
+   },
+   {
+    "date": "2026-08-18",
+    "description": "Reparo hidráulico banheiro",
+    "value": 273.05
+   },
+   {
+    "date": "2026-08-21",
+    "description": "Lavanderia mensal",
+    "value": 585.35
+   },
+   {
+    "date": "2026-08-28",
+    "description": "Repasse aos proprietários",
+    "value": 16000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-08-04",
+    "description": "Repasse reserva CE058 parc. 2",
+    "value": 2929.95
+   },
+   {
+    "date": "2026-08-09",
+    "description": "Repasse reserva CE059 parc. 1",
+    "value": 3034.5
+   },
+   {
+    "date": "2026-08-13",
+    "description": "Repasse reserva CE060 parc. 2",
+    "value": 2599.58
+   },
+   {
+    "date": "2026-08-27",
+    "description": "Repasse reserva CE057 parc. 2",
+    "value": 4655.87
+   },
+   {
+    "date": "2026-08-27",
+    "description": "Repasse reserva CE065 parc. 1",
+    "value": 5091.5
+   }
+  ]
+ },
+ "2026-09": {
+  "debits": [
+   {
+    "date": "2026-08-21",
+    "description": "Lavanderia mensal",
+    "value": 585.35
+   },
+   {
+    "date": "2026-09-03",
+    "description": "0. Amenities hóspedes",
+    "value": 168.86
+   },
+   {
+    "date": "2026-09-05",
+    "description": "2. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-09-07",
+    "description": "Pag. solicitado Energia",
+    "value": 2480.35
+   },
+   {
+    "date": "2026-09-07",
+    "description": "6. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-09-07",
+    "description": "Pastilha de cloro",
+    "value": 160.54
+   },
+   {
+    "date": "2026-09-09",
+    "description": "4. Saneamento",
+    "value": 154.01
+   },
+   {
+    "date": "2026-09-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-09-10",
+    "description": "IPTU parcela 8/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-09-12",
+    "description": "3. Amenities hóspedes",
+    "value": 198.84
+   },
+   {
+    "date": "2026-09-14",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-09-20",
+    "description": "Lavanderia mensal",
+    "value": 510.01
+   },
+   {
+    "date": "2026-09-21",
+    "description": "Reparo hidráulico banheiro",
+    "value": 540.38
+   },
+   {
+    "date": "2026-09-21",
+    "description": "Toalhas de banho",
+    "value": 268.03
+   },
+   {
+    "date": "2026-09-25",
+    "description": "3. Gás cozinha",
+    "value": 479.16
+   },
+   {
+    "date": "2026-09-28",
+    "description": "Pagamento solicitado",
+    "value": 20000
+   },
+   {
+    "date": "2026-09-30",
+    "description": "Kit boas-vindas",
+    "value": 149.31
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-09-03",
+    "description": "Repasse reserva CE060 parc. 1",
+    "value": 2599.58
+   },
+   {
+    "date": "2026-09-11",
+    "description": "Repasse reserva CE058 parc. 3",
+    "value": 4883.25
+   },
+   {
+    "date": "2026-09-13",
+    "description": "Repasse reserva CE062 parc. 1",
+    "value": 4175.63
+   },
+   {
+    "date": "2026-09-16",
+    "description": "Repasse reserva CE059 parc. 2",
+    "value": 3034.5
+   },
+   {
+    "date": "2026-09-30",
+    "description": "Repasse reserva CE060 parc. 3",
+    "value": 2599.59
+   }
+  ]
+ },
+ "2026-10": {
+  "debits": [
+   {
+    "date": "2026-10-05",
+    "description": "1. Salário caseiro",
+    "value": 2150
+   },
+   {
+    "date": "2026-10-06",
+    "description": "4. Energia",
+    "value": 664.32
+   },
+   {
+    "date": "2026-10-06",
+    "description": "3. Amenities hóspedes",
+    "value": 223.31
+   },
+   {
+    "date": "2026-10-07",
+    "description": "1. FGTS caseiro",
+    "value": 172
+   },
+   {
+    "date": "2026-10-07",
+    "description": "Lâmpadas LED",
+    "value": 238.85
+   },
+   {
+    "date": "2026-10-10",
+    "description": "Internet fibra",
+    "value": 189.9
+   },
+   {
+    "date": "2026-10-10",
+    "description": "Botijão P45",
+    "value": 455.29
+   },
+   {
+    "date": "2026-10-10",
+    "description": "IPTU parcela 9/10",
+    "value": 236.4
+   },
+   {
+    "date": "2026-10-11",
+    "description": "Conta de água",
+    "value": 186.47
+   },
+   {
+    "date": "2026-10-11",
+    "description": "Dedetização trimestral",
+    "value": 439.1
+   },
+   {
+    "date": "2026-10-12",
+    "description": "Honorários contador",
+    "value": 320
+   },
+   {
+    "date": "2026-10-12",
+    "description": "Cloro e clarificante",
+    "value": 186.19
+   },
+   {
+    "date": "2026-10-12",
+    "description": "5. Conserto chuveiro",
+    "value": 818.72
+   },
+   {
+    "date": "2026-10-15",
+    "description": "Lavanderia mensal",
+    "value": 835.02
+   },
+   {
+    "date": "2026-10-15",
+    "description": "Cesta de café da manhã",
+    "value": 151.24
+   },
+   {
+    "date": "2026-10-28",
+    "description": "Pagamento solicitado",
+    "value": 16000
+   }
+  ],
+  "credits": [
+   {
+    "date": "2026-10-01",
+    "description": "Repasse reserva CE067 parc. 1",
+    "value": 3321.38
+   },
+   {
+    "date": "2026-10-09",
+    "description": "Repasse reserva CE068 parc. 1",
+    "value": 5514.38
+   },
+   {
+    "date": "2026-10-17",
+    "description": "Repasse reserva CE066 parc. 1",
+    "value": 7458.75
+   },
+   {
+    "date": "2026-10-20",
+    "description": "Repasse reserva CE061 parc. 2",
+    "value": 3963.12
+   },
+   {
+    "date": "2026-10-22",
+    "description": "Repasse reserva CE064 parc. 1",
+    "value": 2861.1
+   },
+   {
+    "date": "2026-10-30",
+    "description": "Repasse reserva CE070 parc. 1",
+    "value": 3206.63
+   },
+   {
+    "date": "2026-10-30",
+    "description": "Repasse reserva CE071 parc. 1",
+    "value": 4037.5
+   }
+  ]
+ },
+ "2024-11": {
+  "debits": [],
+  "credits": [
+   {
+    "date": "2024-11-28",
+    "description": "Repasse reserva CE001 parc. 1",
+    "value": 7154.88
+   },
+   {
+    "date": "2024-11-29",
+    "description": "Repasse reserva CE003 parc. 1",
+    "value": 14547.75
+   },
+   {
+    "date": "2024-11-30",
+    "description": "Repasse reserva CE004 parc. 1",
+    "value": 2138.17
+   }
+  ]
+ },
+ "2024-12": {
+  "debits": [
+   {
+    "date": "2024-12-31",
+    "description": "Kit boas-vindas",
+    "value": 129.41
+   }
+  ],
+  "credits": [
+   {
+    "date": "2024-12-09",
+    "description": "Repasse reserva CE010 parc. 1",
+    "value": 2161.13
+   },
+   {
+    "date": "2024-12-14",
+    "description": "Repasse reserva CE011 parc. 1",
+    "value": 5899
+   },
+   {
+    "date": "2024-12-15",
+    "description": "Repasse reserva CE006 parc. 1",
+    "value": 2493.9
+   },
+   {
+    "date": "2024-12-16",
+    "description": "Repasse reserva CE002 parc. 2",
+    "value": 3985.65
+   },
+   {
+    "date": "2024-12-19",
+    "description": "Repasse reserva CE001 parc. 2",
+    "value": 7154.87
+   },
+   {
+    "date": "2024-12-30",
+    "description": "Repasse reserva CE007 parc. 1",
+    "value": 1374.45
+   }
+  ]
+ },
+ "2024-10": {
+  "debits": [],
+  "credits": [
+   {
+    "date": "2024-10-13",
+    "description": "Repasse reserva CE005 parc. 1",
+    "value": 5748.13
+   },
+   {
+    "date": "2024-10-28",
+    "description": "Repasse reserva CE002 parc. 1",
+    "value": 2657.1
+   }
+  ]
+ }
+}
